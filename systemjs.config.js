@@ -15,7 +15,7 @@ System.config({
   map: {
     angular        : 'bower_components/angular/angular.js',
     'angular-route': 'bower_components/angular-route/angular-route.js',
-    todoListModule: 'app/scripts/list/list.config'
+    todoListModule: 'src/list/list.config'
   }
 });
 

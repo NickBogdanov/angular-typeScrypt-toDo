@@ -17,4 +17,4 @@ System.register(['angular', 'angular-route', 'todoListModule'], function(exports
         }
     }
 });
-//# sourceMappingURL=main.js.map
+//# sourceMappingURL=app.js.map
