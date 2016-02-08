@@ -4,6 +4,7 @@ node_modules/
 bower_components/
 typings/
 src/*.js
+src/*.js.map
 tmp
 .DS_Store
 .idea
